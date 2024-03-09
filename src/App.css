@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+input{
+  font-family: "Merriweather", serif;
+  color: orangered;
+  width: 150px;
+  line-height: 60px;
+  text-align: right;
+  border-radius: 8px;
+  border: 1px dotted darkred;
+  outline: none;
+  font-size: 2.5rem;
+}
+
+label{
+  font-family: "Merriweather", serif;
+  display: block;
+  font-size: 1.25rem;
+  margin-top: 25px;
+}
+
+.caja{
+  text-align: center;
+}
